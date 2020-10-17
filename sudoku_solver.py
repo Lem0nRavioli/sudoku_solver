@@ -59,4 +59,5 @@ def run_solver(board):
     else: print('This board cannot be solved')
 
 
-run_solver(np.zeros((9,9), dtype=int))
+# run example
+# run_solver(np.zeros((9,9), dtype=int))
