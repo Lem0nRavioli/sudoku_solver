@@ -18,3 +18,9 @@ cv2.imshow("Canny", imgCanny)
 cv2.imshow("Dilation", imgDilation)
 cv2.imshow("Eroded", imgEroded)
 cv2.waitKey(0)
+
+
+# https://rogerdudler.github.io/git-guide/
+# git add filename
+# git commit -m "update message"
+# git push origin <branch name> (ex master/main etc)
